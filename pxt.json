@@ -5,11 +5,14 @@
     "license": "no",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "radio": "*",
+        
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "tropic.ts"
+        
     ],
     "testFiles": [
         "test.ts"
